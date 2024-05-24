@@ -32,8 +32,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: (https://github.com/Son1x-7732/blog-preview-card-main.git)
-- Live Site URL: (https://blog-card7732.netlify.app/)
+- Solution URL: (https://github.com/Son1x-7732/social-links-profile-main.git)
+- Live Site URL: (https://social-link7732.netlify.app/)
 
 ### Built with
 
